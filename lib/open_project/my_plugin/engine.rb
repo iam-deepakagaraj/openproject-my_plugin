@@ -33,6 +33,7 @@ module OpenProject::MyPlugin
       #                 angular_kittens: %i[show]
       #              },
       #              permissible_on: [:project]
+      menu :top_menu, :myplugin, { controller: '/angular', action: 'index' }, caption: 'My Plugin'
       end
 
     #   menu :project_menu,
