@@ -1,0 +1,23 @@
+{
+  "name": "openproject-my_plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-deepakagaraj/openproject-my_plugin.git"
+  },
+  "keywords": [],
+  "author": "Deepak Nagaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iam-deepakagaraj/openproject-my_plugin/issues"
+  },
+  "homepage": "https://github.com/iam-deepakagaraj/openproject-my_plugin#readme",
+  "description": ""
+}
